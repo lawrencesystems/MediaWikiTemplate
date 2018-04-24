@@ -1,0 +1,130 @@
+{| class="wikitable"
+|+Client Summary
+!MSP
+!Backup
+!Email
+!Web Hosting
+!WiFi
+!Cameras
+|-
+|No
+|No
+|Office 365 / GSUITE
+|No
+|No
+|No
+|}
+
+<h2>Company Directory</h2>
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+!Name
+!Office Number
+!Extension
+!Cell Number
+!Email Address
+|-
+|
+|
+|
+|
+|
+|}
+
+<h2>Network Devices and Servers</h2>
+{| class="wikitable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+! colspan="4" |<h4 style="padding-top:0px;margin-top:0px;">Devices and Servers</h4>
+|-
+!Server / Device
+!IP Address
+!Username
+!Password
+|-
+|
+|
+|
+|
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+! colspan="5" |<h4 style="padding-top:0px;margin-top:0px;">Printers & Scanners</h4>
+|-
+!Device
+!Location
+!IP Address
+!Username
+!Password
+|-
+|
+|
+|
+|
+|
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+! colspan="3" |<h4 style="padding-top:0px;margin-top:0px;">WiFi</h4>
+|-
+!Device
+!SSID
+!Password
+|-
+|
+|
+|
+|}
+
+<h2>User Login Info</h2>
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+!Name
+!Username
+!Password
+|-
+|
+|
+|
+|}
+
+<h2>Backup </h2>
+https//backup.management/ or http//idrive.com
+{| class="wikitable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+!Product
+!Device
+!Username
+!Password
+!AES Key
+|-
+|
+|
+|
+|
+|
+|}
+
+<h2>Software Licences</h2>
+{| class="wikitable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+|-
+! Software
+! License #
+!Registered Email
+! Password &nbsp;
+|-
+| 
+| 
+| 
+| 
+|}
+
+<h2>Hosting</h2>
+{| class="wikitable mw-collapsible mw-collapsed" style="margin-left:25px;" 
+!Site
+!Username
+!Shell
+!Password
+|-
+|
+|
+|
+|
+|}
+
+== Work Instructions ==
+== Files ==
